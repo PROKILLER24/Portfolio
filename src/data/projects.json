@@ -2,7 +2,7 @@
   {
     "title": "AI Disater Mangement",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed an AI-powered prediction and response system for earthquake, flood, and cyclone disasters.",
     "skills": ["HTML", "Javascripit", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
