@@ -1,25 +1,25 @@
 [
   {
-    "title": "AI Disater Mangement",
+    "title": "AI Disaster Management",
     "imageSrc": "projects/project.png",
-    "description": "Developed an AI-powered prediction and response system for earthquake, flood, and cyclone disasters.",
-    "skills": ["HTML", "Javascripit", "Node"],
+    "description": "AI-powered system for real-time prediction and response to natural disasters such as earthquakes, floods, and cyclones.",
+    "skills": ["HTML", "JavaScript", "Node.js"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
     "title": "Kaju Resort",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS"],
+    "description": "A responsive resort website built to showcase rooms, services, and gallery with a modern UI. Designed with HTML and CSS.",
+    "skills": ["HTML", "CSS","PHP"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
     "title": "IPR Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Andriod", "XML", "Java"],
+    "description": "A responsive app built to showcase copyright, trademark, and right's with a modern UI. Designed with XML and Java. ",
+    "skills": ["Android", "XML", "Java"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
