@@ -9,4 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  base:process.env.VITE_BASE_PATH || "/Portfolio",
 });
